@@ -11,6 +11,7 @@
 	<h3>Your PayPal Profile</h3>
 	<ul>
         <li>User ID: <c:out value="${profile.userId}"/></li>
+        <li>Payer ID: <c:out value="${profile.payerID}"/></li>
         <li>Full Name (including middle name): <c:out value="${profile.fullName}"/></li>
         <li>First Name: <c:out value="${profile.firstName}"/></li>
         <li>Last Name: <c:out value="${profile.lastName}"/></li>
