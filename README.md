@@ -1,3 +1,11 @@
+This repo has been deprecated
+=============================
+PayPal Access now uses OpenIdConnect. Please see 
+* https://github.com/paypal/spring-social-paypal-openidconnect
+* https://github.com/paypal/spring-social-security-paypal-openidconnect-quickstart
+
+-----------------
+
 Spring Social PayPal Quickstart (Spring 3.0.x)
 ==============================================
 
